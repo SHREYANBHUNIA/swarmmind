@@ -15,3 +15,4 @@
 - [x] Make environment parameters visibly affect map conditions and mission metrics.
 - [x] Validate scenario switching on desktop and mobile before delivering the correction.
 - [x] Add a focused scenario-selection test covering each environment and URL-linked state.
+- [ ] Prepare a GitHub-ready project snapshot and push it to the user’s repository.
