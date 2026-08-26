@@ -16,4 +16,4 @@
 - [x] Validate scenario switching on desktop and mobile before delivering the correction.
 - [x] Add a focused scenario-selection test covering each environment and URL-linked state.
 - [x] Prepare a GitHub-ready project snapshot and push it to the user’s repository.
-- [ ] Replace Manus agent attribution in the GitHub commit history with the requested author name and email.
+- [x] Replace Manus agent attribution in the GitHub commit history with the requested author name and email.
