@@ -11,3 +11,7 @@
 - [x] Add authenticated API-level tests for saving, listing, and exporting experiment records.
 - [x] Verify behavior policy selection and mission completion capture through the application’s interaction logic.
 - [x] Save a delivery-ready project checkpoint and provide usage notes.
+- [x] Connect the scenario selector to terrain, target, and objective changes in the live simulation.
+- [x] Make environment parameters visibly affect map conditions and mission metrics.
+- [x] Validate scenario switching on desktop and mobile before delivering the correction.
+- [x] Add a focused scenario-selection test covering each environment and URL-linked state.
